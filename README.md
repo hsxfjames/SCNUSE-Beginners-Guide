@@ -21,7 +21,7 @@ https://www.zhihu.com/question/27522719
 https://zhuanlan.zhihu.com/p/25824007  
 
 ## 在线网站
-### 菜鸟教程（www.runoob.com）
+### 菜鸟教程（ www.runoob.com ）
 #### C语言
 学习C：http://www.runoob.com/cprogramming/c-tutorial.html  
 
@@ -31,7 +31,7 @@ https://zhuanlan.zhihu.com/p/25824007
 #### Python
 学习Python3：http://www.runoob.com/python3/python3-tutorial.html  
 
-### 慕课网（imooc.com）
+### 慕课网（ www.imooc.com ）
 ！！基础课程全部免费，职业路径和实战课程不建议看，你们没有选择能力。  
 课程主页：http://www.imooc.com/course/list?c=be  
 
@@ -55,7 +55,7 @@ https://zhuanlan.zhihu.com/p/25824007
 【视频+练习】【中级】python进阶：http://www.imooc.com/learn/317  
 其他分类：http://www.imooc.com/course/list?c=python ，推荐“python遇见数据采集”、“Python在数据科学中的应用”、“django入门与实践”等。  
 
-### 极客学院（www.jikexueyuan.com）
+### 极客学院（ www.jikexueyuan.com ）
 ！！一些课程需要VIP才能看，30/月，260/年，只是作为推荐之一，不是安利，自己衡量吧。  
 知识体系图主页：http://www.jikexueyuan.com/path/  
 系列课程主页：http://ke.jikexueyuan.com/xilie/  
