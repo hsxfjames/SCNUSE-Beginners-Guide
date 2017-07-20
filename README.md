@@ -7,10 +7,10 @@
 （如果有同学想补充欢迎发issue和PR哦）  
 （主要还是针对暑假真的闲得慌的同学，打代码还不如做家务，学车，聚会，旅游，享受假期才是真的）  
 
-## 书籍推荐
+## 一、书籍推荐
 （豆瓣）C语言程序设计：https://book.douban.com/subject/4279678/  
 
-## 知乎问题
+## 二、知乎问题
 毫无基础的人如何入门 Python ？  
 https://www.zhihu.com/question/32048560  
 Python入门学习指南？  
@@ -20,8 +20,8 @@ https://www.zhihu.com/question/27522719
 给伸手党的福利：Python 新手入门引导  
 https://zhuanlan.zhihu.com/p/25824007  
 
-## 在线网站
-### 菜鸟教程（ www.runoob.com ）
+## 三、在线网站
+### （一）菜鸟教程 www.runoob.com
 #### C语言
 学习C：http://www.runoob.com/cprogramming/c-tutorial.html  
 
@@ -31,7 +31,7 @@ https://zhuanlan.zhihu.com/p/25824007
 #### Python
 学习Python3：http://www.runoob.com/python3/python3-tutorial.html  
 
-### 慕课网（ www.imooc.com ）
+### （二）慕课网 www.imooc.com
 ！！基础课程全部免费，职业路径和实战课程不建议看，你们没有选择能力。  
 课程主页：http://www.imooc.com/course/list?c=be  
 
@@ -40,7 +40,7 @@ https://zhuanlan.zhihu.com/p/25824007
 【视频】【中级】C语言指针与内存：http://www.imooc.com/learn/394 （跳过第三章）  
 【视频】【中级】C语言结构体：http://www.imooc.com/learn/409  
 
-#### C++面向对象编程
+#### C++面向对象
 【视频+练习】【初级】C++远征之起航篇：http://www.imooc.com/learn/342  
 【视频+练习】【初级】C++远征之离港篇：http://www.imooc.com/learn/381  
 【视频+练习】【初级】C++远征之封装篇（上）：http://www.imooc.com/learn/382  
@@ -55,7 +55,7 @@ https://zhuanlan.zhihu.com/p/25824007
 【视频+练习】【中级】python进阶：http://www.imooc.com/learn/317  
 其他分类：http://www.imooc.com/course/list?c=python ，推荐“python遇见数据采集”、“Python在数据科学中的应用”、“django入门与实践”等。  
 
-### 极客学院（ www.jikexueyuan.com ）
+### （三）极客学院 www.jikexueyuan.com
 ！！一些课程需要VIP才能看，30/月，260/年，只是作为推荐之一，不是安利，自己衡量吧。  
 知识体系图主页：http://www.jikexueyuan.com/path/  
 系列课程主页：http://ke.jikexueyuan.com/xilie/  
@@ -63,7 +63,7 @@ https://zhuanlan.zhihu.com/p/25824007
 #### C语言
 C语言开发知识体系图：http://www.jikexueyuan.com/path/c/  
 
-#### C++
+#### C++面向对象
 C++ 程序设计语言：http://ke.jikexueyuan.com/xilie/29  
 
 #### Python
