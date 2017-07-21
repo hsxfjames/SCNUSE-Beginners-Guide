@@ -8,11 +8,14 @@
 （主要还是针对暑假真的闲得慌的同学，打代码还不如做家务，学车，聚会，旅游，享受假期才是真的）  
 
 ## 一、书籍推荐
-（豆瓣）Python学习手册：https://book.douban.com/subject/6049132/  
-（豆瓣）C语言程序设计：https://book.douban.com/subject/4279678/  
-（豆瓣）C Primer Plus：https://book.douban.com/subject/26792521/		（大部头，可当做字典看）  
-（豆瓣）C++ Primer：https://book.douban.com/subject/25708312/	（同上）  
-（豆瓣）算法竞赛入门经典：https://book.douban.com/subject/25902102/  
+|（来源）书名            | 来源链接                                    | 备注                |
+|:---------------------|:-------------------------------------------|:-------------------|
+|（豆瓣）Python学习手册   | https://book.douban.com/subject/6049132/  |                     |
+|（豆瓣）C语言程序设计     | https://book.douban.com/subject/4279678/  |                    |
+|（豆瓣）C Primer Plus   | https://book.douban.com/subject/26792521/ | 大部头，可当做字典看   |
+|（豆瓣）C++ Primer      | https://book.douban.com/subject/25708312/ | 同上                |
+|（豆瓣）算法竞赛入门经典  | https://book.douban.com/subject/25902102/  |                    |
+
 其实语言入门并没有那么必要去买书，网课已经够用了  
 要是觉得网课真的辣鸡到看不下去可以买一本来读一读  
 （千万别买谭浩强！！！千万别买谭浩强！！！千万别买谭浩强！！！）  
