@@ -8,7 +8,7 @@
 （主要还是针对暑假真的闲得慌的同学，打代码还不如做家务，学车，聚会，旅游，享受假期才是真的）  
 
 ## 一、书籍推荐
-|（来源）书名            | 来源链接                                    | 备注                |
+|**（来源）书名**        | **来源链接**                                | **备注**            |
 |:---------------------|:-------------------------------------------|:-------------------|
 |（豆瓣）Python学习手册   | https://book.douban.com/subject/6049132/  |                     |
 |（豆瓣）C语言程序设计     | https://book.douban.com/subject/4279678/  |                    |
@@ -21,14 +21,12 @@
 （千万别买谭浩强！！！千万别买谭浩强！！！千万别买谭浩强！！！）  
 
 ## 二、知乎问题
-毫无基础的人如何入门 Python ？  
-https://www.zhihu.com/question/32048560  
-Python入门学习指南？  
-https://www.zhihu.com/question/28006092  
-最好的Python入门教材是哪本？  
-https://www.zhihu.com/question/27522719  
-给伸手党的福利：Python 新手入门引导  
-https://zhuanlan.zhihu.com/p/25824007  
+|**问题标题**                     | **链接**                                |
+|:------------------------------|:----------------------------------------|
+|毫无基础的人如何入门 Python ？     | https://www.zhihu.com/question/32048560 |
+|Python入门学习指南？              | https://www.zhihu.com/question/28006092 |
+|最好的Python入门教材是哪本？       | https://www.zhihu.com/question/27522719 |
+|给伸手党的福利：Python 新手入门引导 | https://zhuanlan.zhihu.com/p/25824007   |
 
 ## 三、在线网站
 ### （一）菜鸟教程 www.runoob.com
