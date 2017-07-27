@@ -30,7 +30,7 @@ Python现在是一门入门简单、上手快（最快仅需2小时）的编程�
 Python开发知识体系图：http://www.jikexueyuan.com/path/python/  
 Python 初级教程：http://ke.jikexueyuan.com/xilie/34  
 
-## 三、推荐开发环境
+## 四、推荐开发环境
 学习Python你需要先在自己的电脑上安装Python，具体方法请google或度娘  
 安装完Python后你可以直接使用Python自带的IDE——**IDLE**，它能基本满足初学者的需求  
 如果你觉得IDLE太简陋推荐使用**PyCharm**，这也是很多Python使用者认可的环境  
