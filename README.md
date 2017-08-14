@@ -9,9 +9,9 @@
 （主要还是针对暑假真的闲得慌的同学，打代码还不如做家务，学车，聚会，旅游，享受假期才是真的）  
 
 ## 一、语言入门学习指南
-- C语言：      [CGuide](https://github.com/hsxfjames/SCNUSE-Beginners-Guide/blob/master/CGuide.md)  
-- C++语言：    [CPPGuide](https://github.com/hsxfjames/SCNUSE-Beginners-Guide/blob/master/CPPGuide.md)  
-- Python语言： [PythonGuide](https://github.com/hsxfjames/SCNUSE-Beginners-Guide/blob/master/PythonGuide.md)  
+- C语言：      [CGuide](./CGuide.md)  
+- C++语言：    [CPPGuide](./CPPGuide.md)  
+- Python语言： [PythonGuide](./PythonGuide.md)  
 
 ## 二、书籍推荐
 |**（来源）书名**        | **来源链接**                                | **备注**            |
