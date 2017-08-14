@@ -8,7 +8,12 @@
 （如果有同学想补充欢迎发issue和PR哦）  
 （主要还是针对暑假真的闲得慌的同学，打代码还不如做家务，学车，聚会，旅游，享受假期才是真的）  
 
-## 一、书籍推荐
+## 一、语言入门学习指南
+- C语言：      [CGuide](https://github.com/hsxfjames/SCNUSE-Beginners-Guide/blob/master/CGuide.md)  
+- C++语言：    [CPPGuide](https://github.com/hsxfjames/SCNUSE-Beginners-Guide/blob/master/CPPGuide.md)  
+- Python语言： [PythonGuide](https://github.com/hsxfjames/SCNUSE-Beginners-Guide/blob/master/PythonGuide.md)  
+
+## 二、书籍推荐
 |**（来源）书名**        | **来源链接**                                | **备注**            |
 |:---------------------|:-------------------------------------------|:-------------------|
 |（豆瓣）算法竞赛入门经典  | https://book.douban.com/subject/25902102/  |                    |
@@ -17,7 +22,7 @@
 要是觉得网课真的辣鸡到看不下去可以买一本来读一读  
 （千万别买谭浩强！！！千万别买谭浩强！！！千万别买谭浩强！！！）  
 
-## 二、在线课程网站
+## 三、在线课程网站
 ### （一）菜鸟教程 www.runoob.com
 
 ### （二）慕课网 www.imooc.com
