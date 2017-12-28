@@ -16,6 +16,10 @@ Python现在是一门入门简单、上手快（最快仅需2小时）的编程�
 |:---------------------|:-------------------------------------------|:-------------------|
 |（豆瓣）Python学习手册   | https://book.douban.com/subject/6049132/  |                     |
 |（豆瓣）像计算机科学家一样思考Python   | https://book.douban.com/subject/26870407/  | 入门级 |
+| Python基础教程（第3版） | http://www.ituring.com.cn/book/2118       | 图灵社区的书，强烈推荐 |
+| Python编程：从入门到实践 | http://www.ituring.com.cn/book/1861       | 同上，但这本薄点，很基础 |
+| 流畅的Python           | http://www.ituring.com.cn/book/1564       | 进阶                |
+| 精通 Django            | http://www.ituring.com.cn/book/2401       | Web 开发框架之一     |
 
 ## 三、视频课程
 ### （一）菜鸟教程 www.runoob.com
