@@ -27,7 +27,7 @@
 
 ### （二）慕课网 www.imooc.com
 ！！基础课程全部免费，职业路径和实战课程不建议看，你们没有选择能力。  
-课程主页：http://www.imooc.com/course/list?c=be  
+课程主页：http://www.imooc.com/course/list  
 
 ### （三）极客学院 www.jikexueyuan.com
 ！！一些课程需要VIP才能看，30/月，260/年，只是作为推荐之一，不是安利，自己衡量吧。  
